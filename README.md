@@ -1,4 +1,4 @@
 github-learn
 ============
 
-first repo to learn github
+Learning github using the "hello-World" tutorial.
